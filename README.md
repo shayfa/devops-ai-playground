@@ -1,1 +1,1 @@
-# devops-ai-playground
+My first DevOps + AI playground
